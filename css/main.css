@@ -1,17 +1,16 @@
-table{
-   border-collapse: collapse;
-   font-size: 35px;
+table {
+  border-collapse: collapse;
+  font-size: 35px;
 }
 
-
-thead{
-   border: 1px solid#000;
+thead {
+  border: 1px solid #000;
 }
 
-
-td{
-   vertical-align: middle;
-   border: 1px solid #000;
-   text-align: center;
-   padding: 5px 20px;
+td {
+  vertical-align: middle;
+  border: 1px solid #000;
+  text-align: center;
+  padding: 5px 20px;
 }
+/*# sourceMappingURL=main.css.map */
